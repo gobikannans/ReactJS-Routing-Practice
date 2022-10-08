@@ -1,0 +1,38 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin-bottom: 150px;
+}
+
+.nav-first {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 10%;
+}
+
+.nav-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 25%;
+}
+.wave-logo {
+  height: 30px;
+}
+.details {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.details-para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #555555;
+}
